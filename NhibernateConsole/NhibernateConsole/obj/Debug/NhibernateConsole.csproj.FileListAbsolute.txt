@@ -1,0 +1,10 @@
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\NhibernateConsole.exe.config
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\NhibernateConsole.exe
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\NhibernateConsole.pdb
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\Iesi.Collections.dll
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\NHibernate.dll
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\Iesi.Collections.xml
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\bin\Debug\NHibernate.xml
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\obj\Debug\NhibernateConsole.exe
+c:\users\ivalc\documents\visual studio 2015\Projects\NhibernateConsole\NhibernateConsole\obj\Debug\NhibernateConsole.pdb
+C:\Users\iValc\Documents\Visual Studio 2015\Projects\NhibernateConsole\NhibernateConsole\obj\Debug\NhibernateConsole.csprojResolveAssemblyReference.cache

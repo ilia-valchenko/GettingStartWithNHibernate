@@ -1,0 +1,16 @@
+﻿<?xml version = "1.0" encoding = "utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateConsole" 
+                   namespace="NhibernateConsole">
+
+  <class name="Book" table="Books">
+    <id name="Id" unsaved-value="0">
+      <column name="Id" not-null="true" />
+      <generator class = "identity"/>
+    </id>
+
+    <property name = "Title"/>
+  </class>
+
+</hibernate-mapping>
